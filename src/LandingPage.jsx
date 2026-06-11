@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import Navbar from './Navbar'; 
+import Navbar from './navbar'; 
 import bgImage from './assets/bg-coffee1.jpg';
 
 export default function LandingPage() {
